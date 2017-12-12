@@ -1,6 +1,6 @@
 ```
 Docker入门基础
-Author：LiNing
+Author：wuweiming
 ```
 
 ### Docker 介绍：
